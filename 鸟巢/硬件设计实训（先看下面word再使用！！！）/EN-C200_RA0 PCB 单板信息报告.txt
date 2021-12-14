@@ -1,0 +1,287 @@
+Board Information Report
+Filename     : F:\AD09\任务\单板PCB设计\EN-C200_RA2.PcbDoc
+Date         : 2021/8/2
+Time         : 23:54:01
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 4940milsx2525mils
+    Components on board, 190
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 409
+    Connections routed, 409
+    Connections remaing, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    TOP, 65, 500, 0, 4873, 0, 0, 122, 0
+    BOTTOM, 357, 28, 0, 11194, 0, 0, 113, 0
+    OUTLINE, 0, 0, 0, 56, 0, 0, 0, 0
+    Mechanical 255, 0, 0, 0, 2, 0, 0, 0, 0
+    Top Overlay, 20, 0, 0, 1001, 361, 0, 6, 0
+    Bottom Overlay, 28, 0, 0, 16, 32, 0, 0, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 4, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 4, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 32, 4, 0, 0, 0
+    Multi-Layer, 0, 115, 1902, 0, 0, 0, 0, 0
+count : 14
+
+Layer Pairs, Vias
+    TOP - BOTTOM, 1902
+count : 1
+
+Non-Plated Hole Size, Pads, Vias
+    24mils, 2, 0
+    129.921mils, 4, 0
+count : 2
+
+Plated Hole Size, Pads, Vias
+    0mils, 528, 0
+    12mils, 0, 1902
+    32mils, 6, 0
+    36mils, 9, 0
+    40mils, 86, 0
+    45mils, 4, 0
+count : 6
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+    45.276mil / 17.717mil, 4
+count : 1
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    -15.276mils, 4
+    0mils, 2
+    0.079mils, 4
+    12mils, 1902
+    15mils, 4
+    19mils, 9
+    20mils, 84
+    23mils, 6
+    30mils, 2
+count : 9
+
+Mid Layer Annular Ring Size, Count
+    0.079mils, 4
+    12mils, 1902
+    14.724mils, 4
+    15mils, 4
+    20mils, 86
+    24mils, 9
+    28mils, 6
+    36mils, 2
+count : 8
+
+Bottom Layer Annular Ring Size, Count
+    -15.276mils, 4
+    0mils, 2
+    0.079mils, 4
+    12mils, 1902
+    15mils, 4
+    19mils, 9
+    20mils, 84
+    23mils, 6
+    30mils, 2
+count : 9
+
+Pad Solder Mask, Count
+    2mils, 643
+count : 1
+
+Pad Paste Mask, Count
+    0mils, 643
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    20mils, 643
+count : 1
+
+Pad Relief Conductor Width, Count
+    10mils, 643
+count : 1
+
+Pad Relief Air Gap, Count
+    10mils, 643
+count : 1
+
+Pad Relief Entries, Count
+    4, 643
+count : 1
+
+Via Solder Mask, Count
+    2mils, 1902
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    20mils, 1902
+count : 1
+
+Track Width, Count
+    1mils, 56
+    2mils, 91
+    5mils, 14925
+    5.906mils, 9
+    6mils, 1477
+    7.874mils, 6
+    8mils, 90
+    10mils, 70
+    12mils, 42
+    15mils, 52
+    20mils, 204
+    24mils, 11
+    25mils, 88
+    30mils, 51
+    35mils, 2
+count : 15
+
+Arc Line Width, Count
+    5mils, 440
+    6mils, 28
+    8mils, 2
+count : 3
+
+Arc Radius, Count
+    4.998mils, 1
+    5mils, 2
+    5.001mils, 1
+    15.5mils, 96
+    15.808mils, 2
+    17.5mils, 8
+    18.028mils, 1
+    20.5mils, 1
+    22.5mils, 8
+    24.5mils, 76
+    25mils, 22
+    27.5mils, 56
+    28.5mils, 48
+    31.402mils, 33
+    40mils, 13
+    42.5mils, 90
+    47.5mils, 1
+    75mils, 4
+    77.5mils, 4
+    124mils, 1
+    124.001mils, 2
+count : 21
+
+Arc Degrees, Count
+    7, 2
+    8, 2
+    9, 3
+    12, 1
+    13, 1
+    16, 1
+    19, 2
+    20, 2
+    23, 2
+    24, 4
+    27, 4
+    29, 2
+    31, 1
+    34, 4
+    35, 6
+    37, 1
+    44, 2
+    45, 158
+    46, 1
+    50, 2
+    51, 7
+    54, 5
+    55, 1
+    57, 7
+    58, 1
+    66, 2
+    68, 1
+    69, 2
+    72, 5
+    76, 2
+    89, 3
+    90, 3
+    96, 5
+    102, 5
+    105, 3
+    114, 2
+    115, 1
+    126, 2
+    140, 4
+    141, 10
+    147, 2
+    148, 2
+    152, 1
+    180, 6
+    186, 4
+    189, 1
+    192, 3
+    193, 2
+    194, 1
+    204, 1
+    205, 1
+    206, 1
+    210, 3
+    224, 1
+    226, 2
+    227, 1
+    231, 7
+    234, 5
+    237, 6
+    239, 1
+    241, 1
+    246, 2
+    247, 1
+    249, 2
+    264, 1
+    268, 1
+    273, 1
+    276, 7
+    280, 1
+    281, 2
+    282, 4
+    283, 1
+    294, 2
+    360, 121
+count : 74
+
+Text Height, Count
+    25mils, 2
+    30mils, 309
+    50mils, 4
+    60mils, 68
+    63mils, 14
+count : 5
+
+Text Width, Count
+    1.6mils, 2
+    2mils, 1
+    2.4mils, 74
+    3mils, 38
+    3.8mils, 2
+    4mils, 2
+    4.7mils, 14
+    4.8mils, 46
+    5mils, 196
+    6mils, 4
+    10mils, 18
+count : 11
+
+Net Track Width, Count
+    51360.124mils, 128
+count : 1
+
+Net Via Size, Count
+    24mils, 128
+count : 1

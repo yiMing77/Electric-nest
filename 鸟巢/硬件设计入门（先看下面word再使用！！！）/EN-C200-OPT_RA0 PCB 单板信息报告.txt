@@ -1,0 +1,191 @@
+Board Information Report
+Filename     : F:\AD\project\EN-C200-OPT\EN-C200-OPT_RA0.PcbDoc
+Date         : 2021/7/30
+Time         : 12:10:51
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 2000.001milsx980.001mils
+    Components on board, 21
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 38
+    Connections routed, 38
+    Connections remaing, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 87, 30, 0, 3208, 0, 0, 1, 0
+    Bottom Layer, 41, 5, 0, 1819, 0, 0, 0, 0
+    Mechanical 1, 0, 0, 0, 10, 0, 0, 0, 0
+    Mechanical 2, 4, 0, 0, 10, 0, 0, 0, 0
+    Top Overlay, 0, 0, 0, 124, 31, 0, 0, 0
+    Bottom Overlay, 5, 0, 0, 8, 14, 0, 0, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 10, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+    Multi-Layer, 0, 22, 137, 0, 0, 0, 0, 0
+count : 14
+
+Layer Pairs, Vias
+    Top Layer - Bottom Layer, 137
+count : 1
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mils, 35, 0
+    12mils, 0, 137
+    40mils, 22, 0
+count : 3
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    12mils, 137
+    20mils, 22
+count : 2
+
+Mid Layer Annular Ring Size, Count
+    12mils, 137
+    20mils, 22
+count : 2
+
+Bottom Layer Annular Ring Size, Count
+    12mils, 137
+    20mils, 22
+count : 2
+
+Pad Solder Mask, Count
+    2mils, 57
+count : 1
+
+Pad Paste Mask, Count
+    0mils, 57
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    20mils, 57
+count : 1
+
+Pad Relief Conductor Width, Count
+    10mils, 57
+count : 1
+
+Pad Relief Air Gap, Count
+    10mils, 57
+count : 1
+
+Pad Relief Entries, Count
+    4, 57
+count : 1
+
+Via Solder Mask, Count
+    2mils, 137
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    20mils, 137
+count : 1
+
+Track Width, Count
+    2mils, 56
+    4mils, 12
+    5mils, 4971
+    8mils, 20
+    10mils, 31
+    15mils, 86
+    20mils, 3
+    30mils, 10
+count : 8
+
+Arc Line Width, Count
+    5mils, 133
+    6mils, 4
+count : 2
+
+Arc Radius, Count
+    9.5mils, 1
+    15mils, 51
+    17.5mils, 14
+    24.5mils, 7
+    28.5mils, 8
+    30mils, 2
+    30mils, 2
+    31.402mils, 5
+    42.5mils, 47
+count : 9
+
+Arc Degrees, Count
+    12, 2
+    14, 3
+    19, 2
+    31, 1
+    34, 3
+    36, 1
+    37, 2
+    40, 2
+    43, 1
+    44, 3
+    45, 36
+    47, 1
+    48, 6
+    51, 2
+    55, 1
+    60, 1
+    66, 2
+    67, 3
+    85, 2
+    89, 1
+    90, 4
+    93, 1
+    105, 2
+    130, 1
+    140, 4
+    148, 1
+    180, 4
+    210, 1
+    216, 1
+    235, 1
+    246, 2
+    268, 2
+    280, 2
+    304, 1
+    320, 1
+    360, 34
+count : 36
+
+Text Height, Count
+    30mils, 22
+    60mils, 23
+count : 2
+
+Text Width, Count
+    5mils, 22
+    10mils, 23
+count : 2
+
+Net Track Width, Count
+    66152.481mils, 19
+count : 1
+
+Net Via Size, Count
+    24mils, 19
+count : 1

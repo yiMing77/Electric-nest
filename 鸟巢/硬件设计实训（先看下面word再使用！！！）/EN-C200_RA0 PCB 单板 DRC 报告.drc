@@ -1,0 +1,59 @@
+Protel Design System Design Rule Check
+PCB File : F:\AD09\任务\单板PCB设计\EN-C200_RA2.PcbDoc
+Date     : 2021/8/3
+Time     : 0:05:50
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=1000mil) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Via (7830,4807mil) And Via (7830,5015mil)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (5880,4807mil) And Via (5880,5015mil)
+Rule Violations :2
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Region (0 hole(s)) TOP and 
+                     Via (5758mil,2665mil) TOP to BOTTOM
+   Violation between Region (0 hole(s)) TOP and 
+                     Via (5758mil,2615mil) TOP to BOTTOM
+   Violation between Region (0 hole(s)) TOP and 
+                     Via (5758mil,2565mil) TOP to BOTTOM
+   Violation between Region (0 hole(s)) TOP and 
+                     Polygon Region (144 hole(s)) TOP
+Rule Violations :4
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+   Violation between Region (0 hole(s)) TOP and 
+                     Via (5758mil,2665mil) TOP to BOTTOM
+   Violation between Region (0 hole(s)) TOP and 
+                     Via (5758mil,2615mil) TOP to BOTTOM
+   Violation between Region (0 hole(s)) TOP and 
+                     Via (5758mil,2565mil) TOP to BOTTOM
+Rule Violations :3
+
+Processing Rule : Clearance Constraint (Gap=10mil) (inpoly),(All)
+   Violation between Region (0 hole(s)) TOP and 
+                     Polygon Region (144 hole(s)) TOP
+Rule Violations :1
+
+Processing Rule : Clearance Constraint (Gap=12mil) ((OnLayer('Keep-Out Layer'))),(All)
+Rule Violations :0
+
+
+Violations Detected : 10
+Time Elapsed        : 00:00:05
